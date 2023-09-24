@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(54, 51, 51)!important;
+  color: white!important;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+th,td {
+  color: white;
+}
+
